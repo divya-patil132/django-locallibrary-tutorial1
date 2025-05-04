@@ -1,0 +1,24 @@
+Django==5.0.14
+dj-database-url==2.1.0
+gunicorn==22.0.0
+#  psycopg2-binary==2.9.9
+wheel==0.38.1
+whitenoise==6.6.0
+python-dotenv==1.0.1
+
+
+# python -m venv myenv
+# myenv/Scripts/activate
+# pip install -r requirements.txt
+# python manage.py migrate 
+# python manage.py runserver
+
+
+
+
+
+# pip install -r requirements.txt
+# python manage.py makemigrations
+# python manage.py migrate
+# python manage.py createsuperuser
+# python manage.py runserver
